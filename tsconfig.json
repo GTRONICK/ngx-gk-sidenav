@@ -11,6 +11,12 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
+    "paths": {
+      "ngx-gk-sidenav": [
+        "dist/ngx-gk-sidenav/ngx-gk-sidenav",
+        "dist/ngx-gk-sidenav"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,

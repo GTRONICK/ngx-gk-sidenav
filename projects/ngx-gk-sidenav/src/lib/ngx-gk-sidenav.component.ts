@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-ngx-gk-sidenav',
+  selector: 'ngx-gk-sidenav',
   template: `
     <p>
       ngx-gk-sidenav works!
